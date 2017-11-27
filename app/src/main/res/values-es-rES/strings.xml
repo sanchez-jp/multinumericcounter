@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador Multinumérico</string>
+    <string name="hello_blank_fragment">Hola</string>
+    <string name="reset">Reiniciar</string>
+</resources>
